@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+ul {
+    font-style: italic;
+}
+
+ol {
+    font-style: italic;
+}
+
+.chili-ul {
+    background-color: green;
+}
+
+.chili-ol {
+    background-color: blue;
+}
+
